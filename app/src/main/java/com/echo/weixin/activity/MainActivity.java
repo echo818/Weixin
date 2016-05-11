@@ -187,6 +187,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 return false;
             }
         }
+        System.out.println("hello");
         return super.onKeyDown(keyCode, event);
     }
 }
