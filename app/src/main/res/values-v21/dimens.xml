@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="barHeight">56dp</dimen>
+    <dimen name="indexTextSize">12sp</dimen>
+</resources>

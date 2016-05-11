@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:color="@color/tab_item_active_color" android:state_selected="true"/>
+    <item android:color="@color/tab_item_normal_color"/>
+
+</selector><!-- From: file:/D:/AndroidStudio/Weixin/app/src/main/res/color/tab_item_color.xml -->
